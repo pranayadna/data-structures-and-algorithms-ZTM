@@ -64,6 +64,8 @@ console.log(strings);
 
 ---
 
+### **--- Reference Type ---**
+
 ```js
 // Reference type -> non-primitive type, are not defined by the programming languages(meaning: they created by the programmer )
 
@@ -82,10 +84,9 @@ console.log(object2.value);
 console.log(object3.value);
 ```
 
+### **--- Context vs Scope ---**
+
 ```js
-// Context vs Scope
-
-
 - Scope is created when it sees curly brackets
 - Context tells you where we are within the object
   \*/
@@ -120,6 +121,8 @@ const object4 = {
 console.log(object4.a());
 ```
 
+### **--- Instantiation ---**
+
 ```js
 // Instantiation, is when you make a copy of an object and reuse the code
 
@@ -152,9 +155,13 @@ const agent2 = new Agent('John', 'Controller');
 // console.log()
 agent1.introduce();
 console.log(agent1.play());
+```
 
-// 3. IMPLEMENTING AN ARRAY
+## **3. Implementing An Array**
 
+---
+
+```js
 class MyArray {
   constructor() {
     this.length = 0;
