@@ -28,32 +28,32 @@ After we have these foundations we can use data structures and algorithms to sol
 
 ### - _Analytic Skills_
 
-1. How can you think through a problem and analyze things.
-2. When you're coding during an interview **they want to hear your thought process** and **how you go from not knowing the answer to solving the problem**.
+- How can you think through a problem and analyze things.
+- When you're coding during an interview **they want to hear your thought process** and **how you go from not knowing the answer to solving the problem**.
 
 ### - _Coding Skills_
 
-1. Do you code well
-2. Is your code clean
-3. Well organized
-4. Readable.
+- Do you code well
+- Is your code clean
+- Well organized
+- Readable.
 
 ### - _Technical Skills_
 
-    Do you know the fundamentals. Did you just memorize things or do you understand the pros and cons of different solutions.
+- Do you know the fundamentals. Did you just memorize things or do you understand the pros and cons of different solutions.
 
 ### - _Communication Skills_
 
-    Does your personality match the company personality, it means:
+Does your personality match the company personality, it means:
 
 - Can you communicate well with others with the team.
 - They want to know whether you're the type person that's going to fit well and work well within the company
 
 ## **3. What We Need For Coding Interviews**
 
-    - Code is readable
-    - Memory efficient
-    - Time efficient
+- Code is readable
+- Memory efficient
+- Time efficient
 
 ## **4. Step By Step Solving Coding Problem**
 
