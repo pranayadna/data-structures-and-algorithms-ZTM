@@ -1,6 +1,4 @@
-# ZERO TO MASTERY - Master the Coding Interview: Data Structure + Algorithms
-
-## --- HOW TO SOLVE CODING PROBLEM ---
+# HOW TO SOLVE CODING PROBLEM
 
 ## **1. Section Overview**
 

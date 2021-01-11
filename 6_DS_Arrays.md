@@ -1,6 +1,4 @@
-# ZERO TO MASTERY - Master the Coding Interview: Data Structure + Algorithms
-
-## --- DATA STRUCTURES: ARRAYS ---
+# DATA STRUCTURES: ARRAYS
 
 ## **1. Arrays Introduction**
 
